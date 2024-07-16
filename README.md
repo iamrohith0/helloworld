@@ -4,5 +4,5 @@ this project demonstrate a simple "hello world!" script in python.
 
 ## file: hello world.py
 
-'''python
+``` python
 print("hello world")
